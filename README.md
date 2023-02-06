@@ -1,7 +1,7 @@
 Olá, bem vindos ao meu perfil 🥰
 - 🌱 Estou estudando JavaScript, React, TypeScript.
 - 👯 Eu quero me tornar um desenvolvedor FrontEnd
-- 💬 Me pergunte qualquer coisa, ok? 😎
+- 💬 Me pergunte qualquer coisa, ok?? 😎
 - ⚡ Fatos sobre mim: Eu amo a minha mãe 😘
 <div>
   <a href="https://beacons.ai/evertonrocha2">
