@@ -1,6 +1,6 @@
 Olá, bem vindos ao meu perfil 🥰
-- 🌱 Estou estudando JavaScript, React, TypeScript.
-- 👯 Eu quero me tornar um desenvolvedor FrontEnd
+- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js
+- 👯 Eu quero me tornar um desenvolvedor FullStack
 - 💬 Me pergunte qualquer coisa, ok?? 😎
 - ⚡ Fatos sobre mim: Eu amo a minha mãe 😘
 <div>
