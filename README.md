@@ -10,10 +10,10 @@
       <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=d1e0ff&color=4c529e&line=4c749e&point=403d3d&area=true&hide_border=true"/>
     
 </div>
-  
- <div >
-  <img height:"2em" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
- <img height:"2em" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+<br/>
+ <h2>My Skills</h2> 
+ <div>
+  <h5>Main Stack</h5>
   <img height:"2em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img height:"2em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img height:"2em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
@@ -22,10 +22,16 @@
   <img height:"2em" src="https://img.shields.io/badge/Node-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/mySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white"/> 
-  <img height:"2em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+ </div>
+ <br/>
+ <div>
+   <h5>Secondary Stack</h5>
+     <img height:"2em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=whitee"/>
   <img height:"2em" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-  </div>
+ </div>
+  
+ 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
  
   
