@@ -7,7 +7,6 @@
 <div>
   <a href="https://github.com/evertonrocha2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=d1e0ff&color=4c529e&line=4c749e&point=403d3d&area=true&hide_border=true"/>
     
 </div>
 <br/>
