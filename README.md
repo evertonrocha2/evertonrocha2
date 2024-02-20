@@ -6,9 +6,9 @@
 <h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
 
 <div>
-  <a href="https://beacons.ai/evertonrocha2">
+  <a href="https://github.com/evertonrocha2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-   
+  <img height="180em" src="https://github.com/evertonrocha2.png">
 </div>
  <div >
   <img height:"2em" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
