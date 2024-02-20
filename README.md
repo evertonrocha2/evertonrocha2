@@ -10,8 +10,8 @@
       <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=d1e0ff&color=4c529e&line=4c749e&point=403d3d&area=true&hide_border=true"/>
     
 </div>
-https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png
 <br/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  <h2>My Skills</h2> 
  <div>
   <h5>Main Stack</h5>
