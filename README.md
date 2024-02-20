@@ -6,7 +6,7 @@
 <br/>
 <div>
   <a href="https://github.com/evertonrocha2">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=000000&color=ffffff&line=d1ebff&point=0084ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=161b22&color=ffffff&line=d1ebff&point=0084ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
   
     
 </div>
