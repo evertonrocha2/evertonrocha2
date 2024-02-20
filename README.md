@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Everton+Rocha;I'm+21+years+old;I'm+from+Brazil;I'm+majoring+software+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <p>- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js.</p>
 <p>- 😎 Ter foco e disciplina é a base.</p>
 <p>- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.</p>
