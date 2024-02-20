@@ -1,4 +1,3 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=1E90FF&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js.</p>
 <p>- 😎 Ter foco e disciplina é a base.</p>
 <p>- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.</p>
