@@ -1,5 +1,7 @@
 <h1>Olá, bem vindos ao meu perfil 🥰</h1>
 - 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js
+- 😎 Ter foco e disciplina é a base.
+- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.
 <br/>
 <h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
 
