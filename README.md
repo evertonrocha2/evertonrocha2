@@ -1,8 +1,6 @@
 Olá, bem vindos ao meu perfil 🥰
 - 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js
-- 👯 Eu quero me tornar um desenvolvedor FullStack
-- 💬 Me pergunte qualquer coisa, ok?? 😎
-- ⚡ Enquanto eu sonhar eu não vou parar.
+<h1>- ⚡ Enquanto eu sonhar eu não vou parar.</h1>
 <div>
   <a href="https://beacons.ai/evertonrocha2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
@@ -19,7 +17,10 @@ Olá, bem vindos ao meu perfil 🥰
   <img height:"2em" src="https://img.shields.io/badge/Node-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/mySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white"/> 
-  <img height:"2em" src="	https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=whitee"/> 
+  <img height:"2em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
+  <img height:"2em" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=whitee"/>
+  <img height:"2em" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  
   
    
   </div>
