@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
 </div>
     <div>
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=d1e0ff&color=4c529e&line=4c749e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=d1e0ff&color=4c529e&line=4c749e&point=403d3d&area=true&hide_border=true"/>
     </div>
  <div >
   <img height:"2em" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/> 
