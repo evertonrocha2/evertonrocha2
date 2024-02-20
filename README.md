@@ -17,8 +17,8 @@ Olá, bem vindos ao meu perfil 🥰
   <img height:"2em" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img height:"2em" src="https://img.shields.io/badge/C#-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img height:"2em" src="https://img.shields.io/badge/Node-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
+  <img height:"2em" src="https://img.shields.io/badge/MYSQL-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   </div>
  
   
