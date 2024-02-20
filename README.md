@@ -2,7 +2,6 @@
 <p>- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js.</p>
 <p>- 😎 Ter foco e disciplina é a base.</p>
 <p>- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.</p>
-<br/>
 <h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
 <br/>
 <br/>
