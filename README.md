@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=false&vCenter=false&width=1000&lines=Olá!,+meu+nome+é+Everton+Rocha+e+tenho+21+anos;Estou+graduando+em+engenharia+de+software;Bem+vindo!+:%29)](https://git.io/typing-svg)
+
+<h1>Eai! sou o Everton, seja bem vindo ao meu GitHub.</h1>
 <p>- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js.</p>
 <p>- 😎 Ter foco e disciplina é a base.</p>
 <p>- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.</p>
