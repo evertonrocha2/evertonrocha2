@@ -1,6 +1,7 @@
 <h1>Olá, bem vindos ao meu perfil 🥰</h1>
-<h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
 - 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js
+<br/>
+<h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
 
 <div>
   <a href="https://beacons.ai/evertonrocha2">
