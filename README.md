@@ -4,7 +4,7 @@
 - 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.
 <br/>
 <h3>⚡ Enquanto eu sonhar eu não vou parar.</h3>
-
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
 <div>
   <a href="https://github.com/evertonrocha2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
