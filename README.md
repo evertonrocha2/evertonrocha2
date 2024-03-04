@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ol%C3%A1!+Eai!+eu+sou+o+Everton+Rocha!+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Ea%C3%i1!+eu+sou+o+Everton+Rocha!+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BC)](https://git.io/typing-svg)
 <p>- 🌱 Estou estudando JavaScript, React, TypeScript, Java, C# e Node.js.</p>
 <p>- 😎 Ter foco e disciplina é a base.</p>
 <p>- 🤩 Fascinado por resoluções de problemas e por tudo que envolve tecnologia.</p>
