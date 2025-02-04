@@ -5,10 +5,7 @@
 <p>- 🚀 My goal? To work internationally, leveraging my skills to contribute to global progress.</p>
 <h3>⚡ As long as I dream I won't stop.</h3>
 <br/>
-<div>
-  <a href="https://github.com/evertonrocha2">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&bg_color=161b22&color=ffffff&line=d1ebff&point=0084ff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)"/>
-</div>
+
 <br/>
  <h2>My Skills</h2> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
