@@ -3,7 +3,6 @@
 <p>- 😎 Having focus and discipline is the foundation.</p>
 <p>- 🤩  Fascinated by problem solving and everything involving technology.</p>
 <p>- 🚀 My goal? To work internationally, leveraging my skills to contribute to global progress.</p>
-<h3>⚡ As long as I dream I won't stop.</h3>
 <br/>
 
 <br/>
