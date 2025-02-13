@@ -17,7 +17,11 @@ const mySkills = {
 };
 ```
 </td>
-<td>
+</tr>
+</table>
+<table>
+  <tr>
+    <td>
   <div>
   <h5>Main Stacks</h5>
   <img height:"4em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
@@ -37,6 +41,6 @@ const mySkills = {
   <img height:"4em" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=whitee"/>
   <img height:"4em" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
  </div>
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
