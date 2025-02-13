@@ -14,7 +14,7 @@ const mySkills = {
   libraries: ["React", "Tailwind CSS", "Shadcn/ui" ],
   frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
 };
+```
 </td>
 </tr>
 </table>
-```
