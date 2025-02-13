@@ -5,7 +5,7 @@
 </td>
 <td width="50%">
 
-<h2>Hi, I'm Everton Silva, welcome to my GitHub.</h2>
+<h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 
 ```javascript
 const mySkills = {
