@@ -46,7 +46,7 @@ const mySkills = {
 <table>
   <tr>
     <td>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?evertonrocha2=evertonrocha2&show_icons=true&theme=radical)
+      <img src="https://github-readme-stats.vercel.app/api?evertonrocha2=evertonrocha2&show_icons=true&theme=radical"/>
     </td>
   </tr>
 </table>
