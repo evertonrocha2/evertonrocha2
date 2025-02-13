@@ -48,5 +48,8 @@ const mySkills = {
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=evertonrocha2&show_icons=true&theme=radical"/>
     </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=evertonrocha2&theme=radical"/>
+    </td>
   </tr>
 </table>
