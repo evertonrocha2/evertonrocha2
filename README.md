@@ -11,6 +11,7 @@
 const mySkills = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python", "Java", "C#"],
   databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
+  cloud: ["AWS", "Docker"],
   libraries: ["React.js", "Tailwind CSS", "Shadcn/ui" ],
   frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
 };
