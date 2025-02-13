@@ -34,7 +34,6 @@ const mySkills = {
   <img height:"3em" src="https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white"/> 
   <img height:"3em" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
  </div>
- <br/>
     </td>
 <td>
  <div>
