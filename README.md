@@ -51,8 +51,5 @@ const mySkills = {
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonrocha2&layout=compact&theme=radical"/>
     </td>
-    <td>
-      <img style="height: 170px" src="https://i.imgur.com/Z1D72fW.png"/>
-    </td>
   </tr>
 </table>
