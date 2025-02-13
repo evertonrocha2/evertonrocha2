@@ -1,4 +1,4 @@
-
+ <img height:"6em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://imgur.com/SUMpzEU)"/> 
 
 ```javascript
 const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
