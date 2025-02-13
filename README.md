@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F7F7F7&width=435&lines=Hey!+i'm+Everton+Rocha!+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BC)](https://git.io/typing-svg)
-<p>- 🌱 I'm studying JavaScript, React, TypeScript, Java, C#, Python and Node.js.</p>
-<p>- 😎 Having focus and discipline is the foundation.</p>
-<p>- 🤩  Fascinated by problem solving and everything involving technology.</p>
-<p>- 🚀 My goal? To work internationally, leveraging my skills to contribute to global progress.</p>
+<p>- I'm studying JavaScript, React, TypeScript, Java, C#, Python and Node.js.</p>
+<p>- Having focus and discipline is the foundation.</p>
+<p>- Fascinated by problem solving and everything involving technology.</p>
+<p>- My goal? To work internationally, leveraging my skills to contribute to global progress.</p>
 <br/>
 
 <br/>
