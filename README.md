@@ -38,7 +38,7 @@ const mySkills = {
 </table>
 <table>
   <tr>
-    <td width="40%" text-align="center">
+    <td width="40%" align="center">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonrocha2&layout=compact&theme=radical"/>
     </td>
     <td>
