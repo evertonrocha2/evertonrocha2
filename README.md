@@ -1,6 +1,5 @@
 <table>
 <tr>
-<td>
   
 ```javascript
 const mySkills = {
@@ -12,7 +11,6 @@ const mySkills = {
 };
 ```
 
-</td>
 </tr>
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 </table>
