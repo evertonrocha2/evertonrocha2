@@ -43,11 +43,9 @@ const mySkills = {
     </td>
     
   </tr>
-   <tr>
     <td>
       <img  src="https://i.imgur.com/O8TpR8x.png"/>
       </td>
-  </tr>
 </table>
 <table>
  
