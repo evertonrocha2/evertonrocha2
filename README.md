@@ -17,7 +17,6 @@ const mySkills = {
 <table style="display: flex; align-items: center">
   <tr>
     <td>
-  <div>
   <h5>Main Stacks</h5>
   <img height:"3em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img height:"3em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
@@ -25,7 +24,6 @@ const mySkills = {
   <img height:"3em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img height:"3em" src="https://img.shields.io/badge/Node-007ACC?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
   <img height:"3em" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white"
- </div>
     </td>
 <td>
  <div>
