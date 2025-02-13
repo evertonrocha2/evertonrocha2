@@ -3,7 +3,7 @@
 <td style="width: 40%">
 <img src="https://imgur.com/SUMpzEU.png" width="300"/>
 </td>
-<td width="100%">
+<td style="width: 60%">
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 </td>
 </tr>
