@@ -11,10 +11,9 @@ const mySkills = {
   frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
 };
 ```
-
 </tr>
 </table>
-<table style="display: flex; align-items: center">
+<table>
   <tr>
     <td>
   <h5>Main Stacks</h5>
