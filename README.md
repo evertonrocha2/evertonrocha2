@@ -4,10 +4,11 @@
 <img src="https://imgur.com/SUMpzEU.png" width="300"/>
 </td>
 <td width="50%">
-
+<div>
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 <h6>Passionate about problem-solving and everything related to technology.</h6>
-
+</div>
+  
 ```javascript
 const mySkills = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python"],
