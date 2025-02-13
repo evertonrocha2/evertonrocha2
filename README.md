@@ -19,5 +19,3 @@ console.log("- Databases:", mySkills.databases.join(", "));
 console.log("- Libraries:", mySkills.libraries.join(", "));
 console.log("- Frameworks:", mySkills.frameworks.join(", "));
 ```
-
-Copy and paste this into your README.md file on GitHub!
