@@ -52,7 +52,7 @@ const mySkills = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertonrocha2&layout=compact&theme=radical"/>
     </td>
     <td>
-      <img style="height: 50px" src="https://i.imgur.com/DRYrtL2.png"/>
+      <img style="height: 150px" src="https://i.imgur.com/DRYrtL2.png"/>
     </td>
   </tr>
 </table>
