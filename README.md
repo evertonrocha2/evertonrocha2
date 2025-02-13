@@ -47,5 +47,4 @@ const mySkills = {
       
 </table>
 <table>
- 
 </table>
