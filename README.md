@@ -1,4 +1,5 @@
 <img src="https://imgur.com/SUMpzEU.png" width="500"/>
+
 ```javascript
 const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
 const aboutMe = ("- I'm studying", mySkills.languages.join(", "), "and more.");
