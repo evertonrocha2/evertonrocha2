@@ -1,4 +1,4 @@
-<img src="https://imgur.com/SUMpzEU" />
+![My Banner](https://imgur.com/SUMpzEU.png)
 
 ```javascript
 const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
