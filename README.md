@@ -36,7 +36,7 @@ const mySkills = {
  <div>
    <h5>Secondary Stacks</h5>
   <img height:"3em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
-  <img height:"3em" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)"/> 
+  <img height:"3em" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff"/> 
   <img height:"3em" src="https://img.shields.io/badge/Php-007ACC?style=for-the-badge&logo=php&logoColor=white"/> 
   <img height:"3em" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
  </div>
