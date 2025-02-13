@@ -6,6 +6,7 @@
 <td width="50%">
 
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
+<p>Passionate about problem-solving and everything related to technology.</p>
 
 ```javascript
 const mySkills = {
