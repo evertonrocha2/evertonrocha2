@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td style="width: 40%">
+<td>
   
 ```javascript
 const mySkills = {
@@ -10,7 +10,7 @@ const mySkills = {
   frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
 };
 ```
-</div>
+
 </td>
 </tr>
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
