@@ -3,9 +3,6 @@
 <td style="width: 40%">
   
 ```javascript
-const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
-const about = ("- I'm studying", mySkills.languages.join(", "), "and more.");
-
 const mySkills = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python", "Java", "C#"],
   databases: ["MySQL", "Postgres", "Firebase", "Supabase"],
