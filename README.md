@@ -43,3 +43,10 @@ const mySkills = {
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+    </td>
+  </tr>
+</table>
