@@ -1,4 +1,4 @@
- <img height:"3em" src="https://imgur.com/SUMpzEU"/> 
+ <img src="https://imgur.com/SUMpzEU" /> 
 
 ```javascript
 const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
