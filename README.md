@@ -8,7 +8,7 @@
 <br/>
  <h2>My Skills</h2> 
  <div>
-  <h5>🛠 Main Stacks</h5>
+  <h5>Main Stacks</h5>
   <img height:"3em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img height:"3em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img height:"3em" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
@@ -21,7 +21,7 @@
  </div>
  <br/>
  <div>
-   <h5>🛠 Secondary Stack</h5>
+   <h5>Secondary Stacks</h5>
   <img height:"3em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
   <img height:"3em" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=whitee"/>
   <img height:"3em" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
