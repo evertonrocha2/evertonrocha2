@@ -35,6 +35,8 @@ const mySkills = {
   <img height:"4em" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
  </div>
  <br/>
+    </td>
+<td>
  <div>
    <h5>Secondary Stacks</h5>
   <img height:"4em" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> 
