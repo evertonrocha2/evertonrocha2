@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-<img src="https://imgur.com/SUMpzEU.png" width="500"/>
+<img src="https://imgur.com/SUMpzEU.png" width="300"/>
 
 ```javascript
 const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
