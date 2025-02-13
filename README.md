@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://imgur.com/SUMpzEU.png" width="300"/>
+<img style={{border-radius: 25px}} src="https://imgur.com/SUMpzEU.png" width="300"/>
 </td>
 <td width="50%">
   
