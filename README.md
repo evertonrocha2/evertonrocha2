@@ -10,8 +10,8 @@
 ```javascript
 const mySkills = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python", "Java", "C#"],
-  databases: ["MySQL", "Postgres", "Firebase", "Supabase"],
-  libraries: ["React", "Tailwind CSS", "Shadcn/ui" ],
+  databases: ["MySQL", "PostgreSQL", "Firebase", "Supabase"],
+  libraries: ["React.js", "Tailwind CSS", "Shadcn/ui" ],
   frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
 };
 ```
