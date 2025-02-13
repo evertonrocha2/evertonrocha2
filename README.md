@@ -5,9 +5,9 @@
 </td>
 <td width="50%">
 
+<h2>Hi, I'm Everton Silva, welcome to my GitHub.</h2>
+
 ```javascript
-const greeting = "Hi, I'm Everton Silva, welcome to my GitHub.")
-const about = ("- I'm studying", mySkills.languages.join(", "), "and more.");
 const mySkills = {
   languages: ["JavaScript", "TypeScript", "PHP", "Python", "Java", "C#"],
   databases: ["MySQL", "Postgres", "Firebase", "Supabase"],
