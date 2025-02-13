@@ -1,3 +1,4 @@
+<h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 <table>
 <tr>
   
@@ -12,7 +13,6 @@ const mySkills = {
 ```
 
 </tr>
-<h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 </table>
 <table style="display: flex; align-items: center">
   <tr>
