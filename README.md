@@ -4,11 +4,21 @@
   
 ```javascript
 const mySkills = {
-  languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-  databases: ["MySQL", "Postgres", "Supabase"],
-  cloud: ["AWS", "Docker"],
-  libraries: ["React", "Tailwind CSS", "Shadcn/ui" ],
-  frameworks: ["Next.js", "Node.js", ".NET", "Vite"]
+  frontend: {
+    languages: ["JavaScript", "TypeScript"],
+    libraries: ["React", "Tailwind CSS", "Shadcn/ui"],
+    frameworks: ["Next.js", "Vite"]
+  },
+  backend: {
+    languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+    runtimes: ["Node.js"],
+    frameworks: [".NET"]
+  },
+  databases: {
+    relational: ["MySQL", "Postgres"],
+    cloud: ["Supabase"]
+  },
+  cloud: ["AWS", "Docker"]
 };
 ```
 </tr>
