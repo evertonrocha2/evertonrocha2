@@ -12,13 +12,11 @@ const mySkills = {
   backend: {
     languages: ["JavaScript", "TypeScript", "PHP", "Python"],
     runtimes: ["Node.js"],
-    frameworks: [".NET"]
   },
   databases: {
-    relational: ["MySQL", "Postgres"],
-    cloud: ["Supabase"]
+    relational: ["MySQL", "PostgreSQL"]
   },
-  cloud: ["AWS", "Docker"]
+  cloud: ["AWS", "Docker", "Supabase"]
 };
 ```
 </tr>
