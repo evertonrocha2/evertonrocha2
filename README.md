@@ -10,7 +10,7 @@ const mySkills = {
     frameworks: ["Next.js", "Vite"]
   },
   backend: {
-    languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+    languages: ["PHP", "Python"],
     runtimes: ["Node.js"],
   },
   databases: {
