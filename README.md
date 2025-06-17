@@ -1,7 +1,6 @@
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 
-<pre>
-javascript```
+```javascript
 const mySkills = {
   frontend: {
     languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
@@ -24,7 +23,6 @@ const mySkills = {
   crm: ["Salesforce CRM"]
 };
 ```
-</pre>
 <table>
   <tr>
     <td valign="top" style="padding: 10px;">
