@@ -53,19 +53,22 @@ const mySkills = {
  </div>
     </td>
     <td>
-      <h5>Databases</h5>
+      <div>      <h5>Databases</h5>
 <img height="3em" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/SOQL-009EDB?style=for-the-badge&logo=salesforce&logoColor=white"/>
+        </div>
     </td>
     <td>
+      <div>
       <h5>DevOps & Cloud</h5>
 <img height="3em" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img height="3em" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-    </td>
+    </div>
+      </td>
   </tr>
 </table>
 <table>
