@@ -1,7 +1,6 @@
 <h4>Hi, I'm Everton Silva, welcome to my GitHub.</h4>
 
 <pre>
-<code>
 javascript```
 const mySkills = {
   frontend: {
@@ -25,7 +24,6 @@ const mySkills = {
   crm: ["Salesforce CRM"]
 };
 ```
-</code>
 </pre>
 <table>
   <tr>
