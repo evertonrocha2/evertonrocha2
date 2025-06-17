@@ -2,6 +2,7 @@
 
 <pre>
 <code>
+javascript```
 const mySkills = {
   frontend: {
     languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
@@ -23,6 +24,7 @@ const mySkills = {
   architecture: ["Clean Architecture", "SOLID"],
   crm: ["Salesforce CRM"]
 };
+```
 </code>
 </pre>
 <table>
