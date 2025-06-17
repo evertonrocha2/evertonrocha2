@@ -25,8 +25,6 @@ const mySkills = {
 };
 </code>
 </pre>
-
-<!-- Tabela organizada com espaçamento -->
 <table>
   <tr>
     <td valign="top" style="padding: 10px;">
@@ -39,7 +37,6 @@ const mySkills = {
       <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
       <img height="30" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
     </td>
-
     <td valign="top" style="padding: 10px;">
       <h5>Secondary Stacks</h5>
       <img height="30" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/><br/>
@@ -51,7 +48,6 @@ const mySkills = {
       <img height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/><br/>
       <img height="30" src="https://img.shields.io/badge/Shadcn/UI-%23?style=for-the-badge&logo=react&logoColor=white"/>
     </td>
-
     <td valign="top" style="padding: 10px;">
       <h5>Databases</h5>
       <img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
@@ -59,7 +55,6 @@ const mySkills = {
       <img height="30" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
       <img height="30" src="https://img.shields.io/badge/SOQL-009EDB?style=for-the-badge&logo=salesforce&logoColor=white"/>
     </td>
-
     <td valign="top" style="padding: 10px;">
       <h5>DevOps & Cloud</h5>
       <img height="30" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/>
@@ -69,9 +64,7 @@ const mySkills = {
     </td>
   </tr>
 </table>
-
 <br/>
-
 <table>
   <tr>
     <td valign="top" style="padding: 10px;">
@@ -82,7 +75,6 @@ const mySkills = {
       <img height="30" src="https://img.shields.io/badge/SOLID_Principles-000000?style=for-the-badge&logo=code&logoColor=white"/><br/>
       <img height="30" src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=clean&logoColor=white"/>
     </td>
-
     <td valign="top" style="padding: 10px;">
       <h5>CRM & Outros</h5>
       <img height="30" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
