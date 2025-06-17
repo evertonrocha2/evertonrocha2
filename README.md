@@ -5,18 +5,24 @@
 ```javascript
 const mySkills = {
   frontend: {
-    languages: ["JavaScript", "TypeScript"],
-    libraries: ["React", "Tailwind CSS", "Shadcn/ui"],
+    languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
+    libraries: ["React", "Vue.js", "Tailwind CSS", "Shadcn/ui"],
     frameworks: ["Next.js", "Vite"]
   },
   backend: {
-    languages: ["PHP", "Python"],
+    languages: ["PHP", "Python", "Golang", "JavaScript", "TypeScript"],
     runtimes: ["Node.js"],
+    frameworks: ["NestJS", "Express", "Symfony"]
   },
   databases: {
-    relational: ["MySQL", "PostgreSQL"]
+    relational: ["MySQL", "PostgreSQL", "SOQL"],
+    nonRelational: ["MongoDB"],
+    platforms: ["Salesforce Data Model"]
   },
-  cloud: ["AWS", "Docker", "Supabase"]
+  cloud: ["AWS", "Docker", "Supabase", "Azure DevOps"],
+  tools: ["Git", "OAuth", "REST APIs", "CI/CD"],
+  architecture: ["Clean Architecture", "SOLID"],
+  crm: ["Salesforce CRM"]
 };
 ```
 </tr>
