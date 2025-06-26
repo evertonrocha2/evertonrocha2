@@ -10,7 +10,7 @@ const mySkills = {
   backend: {
     languages: ["PHP", "Python", "Golang", "JavaScript", "TypeScript"],
     runtimes: ["Node.js"],
-    frameworks: ["NestJS", "Express", "Symfony"]
+    frameworks: ["NestJS", "Express"]
   },
   databases: {
     relational: ["MySQL", "PostgreSQL", "SOQL"],
