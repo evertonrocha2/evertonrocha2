@@ -10,9 +10,6 @@ I enjoy working with TypeScript, Golang, and cloud solutions, combining performa
 **Languages & Frameworks**
 > Golang · JavaScript · TypeScript · Node.js · React · Next.js · Vue.js · NestJS · Express
 
-**Styling**
-> Tailwind CSS · Shadcn/UI
-
 **Databases**
 > PostgreSQL · MySQL · MongoDB · SOQL (Salesforce)
 
