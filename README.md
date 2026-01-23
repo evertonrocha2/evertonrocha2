@@ -7,7 +7,7 @@ I enjoy combining performance and simplicity — turning complex problems into m
 
 ### Achievement
 
-Improved a critical backend flow by optimizing integrations and execution strategy, reducing end-to-end processing time from ~8 minutes to ~50s / 2 minutes while keeping reliability and observability in place.
+Improved a critical backend flow by optimizing integrations and execution strategy, reducing end-to-end processing time from ~8 minutes to ~50 seconds–2 minutes, while maintaining reliability and observability.
 
 ---
 
