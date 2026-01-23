@@ -1,7 +1,7 @@
 # Everton Silva
 
 Software Engineer focused on building scalable systems, clean architectures, and modern web applications.  
-I enjoy combining performance and simplicity — turning complex problems into maintainable solutions.
+I enjoy combining performance and simplicity, turning complex problems into maintainable solutions.
 
 ---
 
