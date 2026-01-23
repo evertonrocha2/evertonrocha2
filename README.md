@@ -1,36 +1,39 @@
 # Everton Silva
 
-**Software Engineer** focused on building scalable systems, clean architectures, and modern web applications.  
-I enjoy working with TypeScript, Golang, and cloud solutions, combining performance with simplicity.
+Software Engineer focused on building scalable systems, clean architectures, and modern web applications.  
+I enjoy combining performance and simplicity — turning complex problems into maintainable solutions.
 
 ---
 
-### 🧠 Main Technologies
+### Achievement
 
-**Languages & Frameworks**
-> Golang · JavaScript · TypeScript · Node.js · React · Next.js · Vue.js · NestJS · Express
-
-**Databases**
-> PostgreSQL · MySQL · MongoDB · SOQL (Salesforce)
-
-**Cloud & DevOps**
-> Azure DevOps · AWS · Docker · Supabase
-
-**Architecture & Tools**
-> SOLID Principles · Clean Architecture · REST APIs · OAuth · Git
-
-**Other Areas**
-> Salesforce CRM · AI Integrations · Automated Testing (Mocha · K6)
+Improved a critical backend flow by optimizing integrations and execution strategy, reducing end-to-end processing time from ~8 minutes to ~50s / 2 minutes while keeping reliability and observability in place.
 
 ---
 
-### 🧩 About Me
+### Tech Stack
+
+### Languages & Frameworks
+Golang · TypeScript · JavaScript · Node.js · NestJS · Express · React · Next.js · Vue.js
+
+### Databases
+PostgreSQL · MySQL · MongoDB · SOQL (Salesforce)
+
+### Cloud & DevOps
+Azure DevOps · AWS · Docker · Supabase
+
+### Architecture & Practices
+Clean Architecture · SOLID · REST APIs · OAuth · Git · Automated Testing (Mocha · K6)
+
+---
+
+### About Me
 
 - Passionate about designing clean, maintainable systems  
 - Experienced with both monolithic and microservice architectures  
 - Enjoy collaborating on technical discussions and documentation  
-- Advocate of code readability, testing, and continuous improvement
+- Advocate of code readability, testing, and continuous improvement  
 
 ---
 
-> “Code with clarity. Build with purpose.”
+> “You are on your own”
