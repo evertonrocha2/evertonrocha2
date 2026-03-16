@@ -1,7 +1,6 @@
 <div align="center">
 <h3 align="left">Everton Rocha</h3>
 </div>
-<br />
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="600" valign="center">
