@@ -4,7 +4,7 @@
 <br />
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="500" valign="center">
+<td width="600" valign="center">
 <img src="https://i.pinimg.com/736x/48/a0/18/48a0187ad067592dcbf7e3599387f61b.jpg"/>
 </td>
 <td valign="center">
