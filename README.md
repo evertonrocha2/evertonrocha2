@@ -8,18 +8,12 @@
 <img src="https://i.pinimg.com/736x/48/a0/18/48a0187ad067592dcbf7e3599387f61b.jpg"/>
 </td>
 <td valign="center">
-
-&nbsp;
-
-I build backend systems focused on clarity, performance, and long-term maintainability. Comfortable across the full stack, from API design to query optimization — with a preference for simple solutions to complex problems.
-
-&nbsp;
-
+  
 **Highlight**
 
 Reduced end-to-end processing time from **~8 min to ~50 sec** by restructuring execution strategy, parallelizing integrations, and adding observability throughout. Maintained full reliability in production.
 
-&nbsp;
+--
 
 **Tech Stack**
 
@@ -34,8 +28,6 @@ Cloud & Infra - AWS · Azure DevOps · Docker · Supabase
 Testing - Mocha · K6
 
 Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · Automated Testing
-
-&nbsp;
 
 </td>
 </tr>
