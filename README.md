@@ -1,39 +1,46 @@
-# Everton Silva
+<div align="center">
+<h3 align="left">Everton Rocha</h3>
+</div>
+<br />
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="500" valign="center">
+<img src="https://i.pinimg.com/736x/48/a0/18/48a0187ad067592dcbf7e3599387f61b.jpg"/>
+</td>
+<td valign="center">
 
-Software Engineer focused on building scalable systems, clean architectures, and modern web applications.  
-I enjoy combining performance and simplicity, turning complex problems into maintainable solutions.
+&nbsp;
 
----
+I build backend systems focused on clarity, performance, and long-term maintainability. Comfortable across the full stack, from API design to query optimization — with a preference for simple solutions to complex problems.
 
-### Achievement
+&nbsp;
 
-Improved a critical backend flow by optimizing integrations and execution strategy, reducing end-to-end processing time from ~8 minutes to ~50 seconds–2 minutes, while maintaining reliability and observability.
+**Highlight**
 
----
+Reduced end-to-end processing time from **~8 min to ~50 sec** by restructuring execution strategy, parallelizing integrations, and adding observability throughout. Maintained full reliability in production.
 
-### Tech Stack
+&nbsp;
 
-### Languages & Frameworks
-Golang · TypeScript · JavaScript · Node.js · NestJS · Express · React · Next.js · Vue.js
+**Tech Stack**
 
-### Databases
-PostgreSQL · MySQL · MongoDB · SOQL (Salesforce)
+Languages & Runtimes - Go · TypeScript · JavaScript · Node.js
 
-### Cloud & DevOps
-Azure DevOps · AWS · Docker · Supabase
+Frameworks - NestJS · Express · React · Next.js · Vue.js
 
-### Architecture & Practices
-Clean Architecture · SOLID · REST APIs · OAuth · Git · Automated Testing (Mocha · K6)
+Databases - PostgreSQL · MySQL · MongoDB · SOQL
 
----
+Cloud & Infra - AWS · Azure DevOps · Docker · Supabase
 
-### About Me
+Testing - Mocha · K6
 
-- Passionate about designing clean, maintainable systems  
-- Experienced with both monolithic and microservice architectures  
-- Enjoy collaborating on technical discussions and documentation  
-- Advocate of code readability, testing, and continuous improvement  
+Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · Automated Testing
 
----
+&nbsp;
 
-> “You are on your own”
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub><i>"You are on your own and always have been"</i></sub>
+</div>
