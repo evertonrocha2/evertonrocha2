@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="left">Everton Rocha</h3>
+  <h3 align="left">Software Engineer / Vert (Everton Rocha)</h3>
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0">
