@@ -13,13 +13,11 @@
 
 Backend-focused engineer working with **payment systems**, **microservices**, **cloud infrastructure**, and **AI-powered integrations**.
 
-Currently building and maintaining services across **Python/FastAPI** and **Golang**, working on payment flows, async processing, external service integrations, facial validation via webhooks, and AI-driven automation.
-
 --
 
 **Highlight**
 
-Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, improving async processing, and adding better observability throughout critical payment flows.
+Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
 
 --
 
@@ -27,21 +25,15 @@ Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring ex
 
 Languages & Runtimes - Go · Python · TypeScript · JavaScript · Node.js
 
-Frameworks - FastAPI · NestJS · Express · React · Next.js · Vue.js
+Frameworks - FastAPI · NestJS · Express · React · Next.js
 
-Databases - PostgreSQL · MySQL · MongoDB · Redis · SOQL
+Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
 
-Cloud & Infra - AWS · Azure Cloud · Azure DevOps · Docker · Supabase
+Databases - PostgreSQL · MySQL · MongoDB · SOQL
 
-Messaging & Async - SQS · RabbitMQ · Kafka · Webhooks
+Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · CI/CD · Webhooks
 
-Testing & Quality - Mocha · Jest · K6 · CI/CD · Automated Testing
-
-Observability - Kibana · Application Insights · Distributed Tracing · Logs
-
-Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · Microservices
-
-AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services · Facial Validation
+AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services
 
     </td>
   </tr>
