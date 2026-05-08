@@ -4,37 +4,52 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="700" valign="center">
-      <img src="https://i.pinimg.com/736x/48/a0/18/48a0187ad067592dcbf7e3599387f61b.jpg"/>
+    <td width="700" valign="middle">
+      <img src="https://i.pinimg.com/736x/48/a0/18/48a0187ad067592dcbf7e3599387f61b.jpg" />
     </td>
-    <td width="550" valign="center">
 
-**Software Engineer**
+    <td width="550" valign="middle">
+      <strong>Software Engineer</strong>
 
-Backend-focused engineer working with **payment systems**, **microservices**, **cloud infrastructure**, and **AI-powered integrations**.
+      <br><br>
 
---
+      Backend-focused engineer working with <strong>payment systems</strong>, <strong>microservices</strong>, <strong>cloud infrastructure</strong>, and <strong>AI-powered integrations</strong>.
 
-**Highlight**
+      <br><br>
 
-Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
+      <strong>Highlight</strong>
 
---
+      <br><br>
 
-**Tech Stack**
+      Reduced end-to-end processing time from <strong>~8 min to ~2 min</strong> by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
 
-Languages & Runtimes - Go · Python · TypeScript · JavaScript · Node.js
+      <br><br>
 
-Frameworks - FastAPI · NestJS · Express · React · Next.js
+      <strong>Tech Stack</strong>
 
-Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
+      <br><br>
 
-Databases - PostgreSQL · MySQL · MongoDB · SOQL
+      Languages & Runtimes - Go · Python · TypeScript · JavaScript · Node.js
 
-Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · CI/CD · Webhooks
+      <br>
 
-AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services
+      Frameworks - FastAPI · NestJS · Express · React · Next.js
 
+      <br>
+
+      Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
+
+      <br>
+
+      Databases - PostgreSQL · MySQL · MongoDB · SOQL
+
+      <br>
+
+      Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · CI/CD · Webhooks
+
+      <br>
+
+      AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services
     </td>
   </tr>
 </table>
