@@ -36,8 +36,8 @@ Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · 
 
 AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services
 
-      </div>
-    </td>
+  </div>
+  </td>
   </tr>
 </table>
 
