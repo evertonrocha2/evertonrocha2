@@ -42,7 +42,7 @@ Databases - PostgreSQL · MySQL · MongoDB · SOQL
 
 Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · CI/CD · Webhooks
 
-AI & Integrations - AI Integrations · RAG · Salesforce CRM · External Payment Services
+AI & Integrations - RAG · Salesforce CRM · External Payment Services
 
   </div>
   </td>
