@@ -20,7 +20,11 @@ Backend-focused engineer working with **payment systems**, **microservices**, **
 
 Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
 
-Designed and implemented **Recurring PIX** after conducting market and product analysis, contributing to a **70% increase in sales** and scaling recurring subscriptions from **~300 to ~6,000**.
+Designed and implemented **Recurring PIX** after market analysis and product opportunity assessment, contributing to a **~70% increase in sales** and scaling recurring subscriptions from **~300 to over 6,000**.
+
+Built an **international sales flow integrated with the Spanish operation**, implementing end-to-end communication between systems from **onboarding through transaction completion**.
+
+Reduced **production incidents by ~40%** through immediate mitigation, root cause analysis, and permanent fixes, improving the stability and reliability of critical payment services.
 
 Refactored an authentication system into a **webhook-based architecture**, reducing user drop-off across signup and login flows by **~80%**.
 
