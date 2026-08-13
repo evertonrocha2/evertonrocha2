@@ -9,6 +9,7 @@
     </td>
     <td width="550" valign="center">
       <div>
+        
 **Highlight**
 
 Reduced end-to-end processing time from **~8 min to ~2 min**, making the processing **4x faster** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
