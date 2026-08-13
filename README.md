@@ -34,13 +34,11 @@ Refactored an authentication system into a **webhook-based architecture**, reduc
 
 Languages & Runtimes - Go · Python · TypeScript · JavaScript · Node.js
 
-Frameworks - FastAPI · NestJS · Express · React · Next.js
-
 Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
 
 Databases - PostgreSQL · MySQL · MongoDB · SOQL
 
-Architecture & Practices - Clean Architecture · SOLID · REST APIs · OAuth · Git · CI/CD · Webhooks
+Architecture & Practices - Clean Architecture · SOLID · CI/CD
 
 AI & Integrations - RAG · Salesforce CRM · External Payment Services
 
