@@ -9,7 +9,6 @@
     </td>
     <td width="550" valign="center">
       <div>
-
 **Highlight**
 
 Reduced end-to-end processing time from **~8 min to ~2 min**, making the processing **4x faster** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
@@ -30,12 +29,9 @@ Languages & Runtimes - Go · Python · TypeScript · Node.js
 
 Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
 
-Databases - PostgreSQL · MySQL · MongoDB · SOQL
-
 Architecture & Practices - Clean Architecture · SOLID · CI/CD
 
 AI & Integrations - RAG · Salesforce CRM · External Payment Services
-
   </div>
   </td>
   </tr>
