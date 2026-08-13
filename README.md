@@ -12,11 +12,11 @@
 
 **Highlight**
 
-Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
+Reduced end-to-end processing time from **~8 min to ~2 min**, making the processing **4x faster** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
 
 Designed and implemented **Recurring PIX** after market analysis and product opportunity assessment, contributing to a **~70% increase in sales** and scaling recurring subscriptions from **~300 to over 6,000**.
 
-Built an **international sales flow integrated with the Spanish operation**, implementing end-to-end communication between systems from **onboarding through transaction completion**.
+Built an **international sales flow integrated with the European operation**, implementing end-to-end communication between systems from **onboarding through transaction completion**.
 
 Reduced **production incidents by ~40%** through immediate mitigation, root cause analysis, and permanent fixes, improving the stability and reliability of critical payment services.
 
