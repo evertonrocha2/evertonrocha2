@@ -10,12 +10,6 @@
     <td width="550" valign="center">
       <div>
 
-**Software Engineer**
-
-Backend-focused engineer working with **payment systems**, **microservices**, **cloud infrastructure**, and **AI-powered integrations**.
-
---
-
 **Highlight**
 
 Reduced end-to-end processing time from **~8 min to ~2 min** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
