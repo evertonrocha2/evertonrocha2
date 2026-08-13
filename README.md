@@ -26,7 +26,7 @@ Refactored an authentication system into a **webhook-based architecture**, reduc
 
 **Tech Stack**
 
-Languages & Runtimes - Go · Python · TypeScript · JavaScript · Node.js
+Languages & Runtimes - Go · Python · TypeScript · Node.js
 
 Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
 
