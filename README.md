@@ -5,7 +5,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="700" valign="center">
-      <img src="https://i.pinimg.com/736x/60/e3/8a/60e38abfb4324899e7197ca5bd322eb5.jpg"/>
+      <img src="https://i.pinimg.com/1200x/11/08/37/1108373fc5f34fb8bff4dc376d3288e7.jpg"/>
     </td>
     <td width="550" valign="center">
       <div>
