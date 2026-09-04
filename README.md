@@ -22,17 +22,6 @@ Reduced **production incidents by ~40%** through immediate mitigation, root caus
 
 Refactored an authentication system into a **webhook-based architecture**, reducing user drop-off across signup and login flows by **~80%**.
 
---
-
-**Tech Stack**
-
-Languages & Runtimes - Go · Python · TypeScript · Node.js
-
-Cloud & Infra - AWS · Azure DevOps · Docker · SQS · Redis · RabbitMQ
-
-Architecture & Practices - Clean Architecture · SOLID · CI/CD
-
-AI & Integrations - RAG · Salesforce CRM · External Payment Services
   </div>
   </td>
   </tr>
