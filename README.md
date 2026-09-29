@@ -1,6 +1,7 @@
+
 <div align="center">
   <h3>Vert (Everton Rocha)</h3>
-  <p>Software/AI Engineer</p>
+  <p>Software Engineer | Distributed Systems & AI</p>
 </div>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -11,17 +12,17 @@
     <td width="550" valign="center">
       <div>
         
-**Highlight**
+**Highlights**
 
-Reduced end-to-end processing time from **~8 min to ~2 min**, making the processing **4x faster** by restructuring execution strategy, parallelizing integrations, and improving async processing in critical payment flows.
+Reduced end-to-end processing time from **~8 min to ~2 min (4x faster)** by optimizing execution strategies, parallelizing integrations, and improving asynchronous processing in critical payment systems.
 
-Designed and implemented **Recurring PIX** after market analysis and product opportunity assessment, contributing to a **~70% increase in sales** and scaling recurring subscriptions from **~300 to over 6,000**.
+Designed and implemented **Recurring Pix**, contributing to a **~70% increase in sales** and scaling recurring subscriptions from **~300 to over 6,000**.
 
-Built an **international sales flow integrated with the European operation**, implementing end-to-end communication between systems from **onboarding through transaction completion**.
+Engineered an **international sales flow integrated with European operations**, enabling seamless end-to-end communication between systems, from **customer onboarding to transaction completion**.
 
-Reduced **production incidents by ~40%** through immediate mitigation, root cause analysis, and permanent fixes, improving the stability and reliability of critical payment services.
+Reduced **production incidents by ~40%** through rapid incident response, root cause analysis, and permanent fixes, strengthening the reliability of critical payment services.
 
-Refactored an authentication system into a **webhook-based architecture**, reducing user drop-off across signup and login flows by **~80%**.
+Redesigned an authentication system using a **webhook-driven architecture**, reducing user drop-off during signup and login by **~80%**.
 
   </div>
   </td>
@@ -29,5 +30,5 @@ Refactored an authentication system into a **webhook-based architecture**, reduc
 </table>
 
 <div align="center">
-  <sub><i>"You are on your own and always have been"</i></sub>
+  <sub><i>"Just a guy in love with code."</i></sub>
 </div>
