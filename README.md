@@ -32,3 +32,38 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
 <div align="center">
   <sub><i>"Just a guy in love with code."</i></sub>
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>Open Source</h3>
+  <p>Pull requests approved by maintainers</p>
+</div>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="700" align="center" valign="center">
+      <br/>
+      <a href="https://github.com/microsoft">
+        <img src="https://github.com/microsoft.png" width="72" alt="Microsoft"/>
+      </a>
+      <h2>Microsoft</h2>
+      <a href="https://github.com/microsoft/PyRIT"><b>microsoft/PyRIT</b></a>
+      <br/>
+      <sub>Python Risk Identification Tool for generative AI</sub>
+      <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4074">
+        <b>#4074 · Enable jsx-a11y lint and make the converter panel resizable by keyboard</b>
+      </a>
+      <br/>
+      <sub>Accessibility linting for the PyRIT frontend, plus a keyboard-operable resize handle following the WAI-ARIA window splitter pattern.</sub>
+      <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4074">
+        <img src="https://img.shields.io/badge/PR-approved-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="PR approved"/>
+      </a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
