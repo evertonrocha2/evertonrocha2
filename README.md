@@ -29,10 +29,6 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
   </tr>
 </table>
 
-<div align="center">
-  <sub><i>"Just a guy in love with code."</i></sub>
-</div>
-
 <br/>
 
 <hr/>
@@ -65,3 +61,9 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
     </td>
   </tr>
 </table>
+
+<br/>
+
+<div align="center">
+  <sub><i>"Just a guy in love with code."</i></sub>
+</div>
