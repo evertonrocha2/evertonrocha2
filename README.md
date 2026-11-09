@@ -35,6 +35,10 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
 
 <br/>
 
+<hr/>
+
+<br/>
+
 <div align="center">
   <h3>Open Source</h3>
   <p>Pull requests approved by maintainers</p>
