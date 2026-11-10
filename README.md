@@ -33,7 +33,7 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
 
 <div align="center">
   <h3>Open Source</h3>
-  <p>Pull requests approved by maintainers</p>
+  <p>Pull requests merged by maintainers</p>
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
@@ -50,9 +50,17 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
       <br/>
       <sub>Accessibility linting for the PyRIT frontend, plus a keyboard-operable resize handle following the WAI-ARIA window splitter pattern.</sub>
       <br/><br/>
-      <a href="https://github.com/microsoft/PyRIT/pull/4074"><img src="https://img.shields.io/badge/PR-approved-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="PR approved"/></a>
+      <a href="https://github.com/microsoft/PyRIT/pull/4074"><img src="https://img.shields.io/badge/PR-merged-8250df?style=for-the-badge&logo=github&logoColor=white" alt="PR merged"/></a>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4125"><b>#4125 · Pin the default number locale in frontend tests</b></a>
+      <br/>
+      <sub>Found and fixed analytics tests that failed on any machine with a non-English locale, without changing production behavior.</sub>
+      <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4125"><img src="https://img.shields.io/badge/PR-merged-8250df?style=for-the-badge&logo=github&logoColor=white" alt="PR merged"/></a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
       <br/><br/>
     </td>
   </tr>
