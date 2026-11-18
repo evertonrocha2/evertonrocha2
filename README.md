@@ -62,6 +62,14 @@ Redesigned an authentication system using a **webhook-driven architecture**, red
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
       <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4147"><b>#4147 · Keep disabled Undo, Repetitions and Save buttons focusable with their reason</b></a>
+      <br/>
+      <sub>Keyboard and screen reader users now land on the disabled button itself and hear why it's unavailable, instead of an unlabeled wrapper.</sub>
+      <br/><br/>
+      <a href="https://github.com/microsoft/PyRIT/pull/4147"><img src="https://img.shields.io/badge/PR-merged-8250df?style=for-the-badge&logo=github&logoColor=white" alt="PR merged"/></a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+      <br/><br/>
     </td>
   </tr>
 </table>
